@@ -1,3 +1,4 @@
+io\spring\trihappy\alpha\config\ResourceServerConfiguration.class
 io\spring\trihappy\alpha\entity\Usuario.class
 io\spring\trihappy\alpha\Aplicacao.class
 io\spring\trihappy\alpha\service\PerfilService.class
@@ -9,5 +10,7 @@ io\spring\trihappy\alpha\config\WebSecurityConfiguration.class
 io\spring\trihappy\alpha\entity\Perfil.class
 io\spring\trihappy\alpha\config\MyUserDetails.class
 io\spring\trihappy\alpha\repository\PerfilRepository.class
+io\spring\trihappy\alpha\config\AuthorizationServerConfiguration.class
 io\spring\trihappy\alpha\controller\IndexController.class
+io\spring\trihappy\alpha\config\CargaInicial.class
 io\spring\trihappy\alpha\controller\UsuarioController.class
