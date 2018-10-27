@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: trihappy
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anna&Rafael
+Implementation-Vendor-Id: io.spring.trihappy.alpha
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/trihappy
+Created-By: Maven Integration for Eclipse
+
