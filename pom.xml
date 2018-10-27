@@ -75,6 +75,7 @@
                 <version>2.3.2</version>
                 <configuration>
                     <finalName>trihappy</finalName>
+                    <mainClass>io.spring.trihappy.alpha.Aplicacao</mainClass>
                 </configuration>
             </plugin>
         </plugins>
